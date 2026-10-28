@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Container, Row, Col, ButtonGroup } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-import resumeImg from "../../Assets/Ayush_Sharma_Resume.png";
+import resumeImg from "../../assets/Ayush_Sharma_Resume.png";
 import { AiOutlineDownload } from "react-icons/ai";
 import { FaGraduationCap, FaCertificate, FaAward, FaFilePdf, FaFileWord } from "react-icons/fa";
 

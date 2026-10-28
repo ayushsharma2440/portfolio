@@ -2,11 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import sabrangImg from "../../Assets/Projects/chatify.png";
-import attendanceImg from "../../Assets/Projects/emotion.png";
-import linkliImg from "../../Assets/Projects/codeEditor.png";
-import backendImg from "../../Assets/Projects/blog.png";
-import pythonImg from "../../Assets/Projects/leaf.png";
+import sabrangImg from "../../assets/Projects/chatify.png";
+import attendanceImg from "../../assets/Projects/emotion.png";
+import linkliImg from "../../assets/Projects/codeEditor.png";
+import backendImg from "../../assets/Projects/blog.png";
+import pythonImg from "../../assets/Projects/leaf.png";
 
 function Projects() {
   return (

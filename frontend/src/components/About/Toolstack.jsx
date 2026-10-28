@@ -1,9 +1,9 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import chrome from "../../Assets/TechIcons/Google Chrome.svg";
-import vsCode from "../../Assets/TechIcons/vscode.svg";
-import Git from "../../Assets/TechIcons/Git.svg";
-import Postman from "../../Assets/TechIcons/Postman.svg";
+import chrome from "../../assets/TechIcons/Google Chrome.svg";
+import vsCode from "../../assets/TechIcons/vscode.svg";
+import Git from "../../assets/TechIcons/Git.svg";
+import Postman from "../../assets/TechIcons/Postman.svg";
 import { SiGithub } from "react-icons/si";
 
 function Toolstack() {
