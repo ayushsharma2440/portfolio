@@ -183,3 +183,5 @@ app.get("/api/contact", async (req, res) => {
 app.listen(PORT, () => {
   console.log(`🚀 Portfolio backend running at http://localhost:${PORT}`);
 });
+
+export default app;
