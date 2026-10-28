@@ -1,8 +1,8 @@
-# Ayush Sharma — Portfolio
+# Ayush Sharma ï¿½ Portfolio
 
 A full-stack developer portfolio built with **React + Vite** (frontend) and **Node.js + Express + MongoDB** (backend).
 
-?? **Live Demo:** [your-deployment-link.up.railway.app](#) ? _replace with your Railway URL_
+?? **Live Demo:** : https://portfolio-one-sage-roo1l1mxcl.vercel.app
 
 ---
 
